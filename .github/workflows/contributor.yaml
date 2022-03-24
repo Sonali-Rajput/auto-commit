@@ -2,7 +2,7 @@ name: kitty contributor
 
 on:
   schedule:
-    - cron: "* 0/5 * * *"
+    - cron: "0 */5 * * *"
 
   
 
